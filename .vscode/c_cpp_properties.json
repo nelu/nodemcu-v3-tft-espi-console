@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\igrec\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266SdFat\\src",
+                "${workspaceRoot}",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Users\\igrec\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\igrec\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\igrec\\Documents\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\**",
+                "C:\\Users\\igrec\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\**",
+                "C:\\Users\\igrec\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "ARDUINO=10800",
+                "USBCON",
+                "ESP8266"
+            ],
+            "forcedInclude": [],
+            "compilerPath": "C://Program Files (x86)//Arduino//hardware//tools//avr//bin//avr-gcc.exe",
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
